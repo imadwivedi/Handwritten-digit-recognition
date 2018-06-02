@@ -6,9 +6,15 @@ Data folder contains dataset files. For Tensorflow implementation open mnist_ten
 
 For tfleran implementation open folder mnist_tflearn.
 
-Requirements
+Requirements:
+
+
 Python 2.7
+
+
 Tensorflow
+
+
 Tflearn
 
 
